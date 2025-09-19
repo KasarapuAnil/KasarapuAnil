@@ -2,20 +2,15 @@
 
 ![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-## About Me
-I'm a **Full-Stack Java Developer** currently working as a **Front-End Developer**.  
-I love building modern, interactive web applications using **Java, Spring Boot, React, and Angular**.  
+### Full-Stack Java Developer | Front-End Specialist
 
-- 🔭 Currently working on modern web apps with **React & Spring Boot**  
-- 🌱 Exploring **Microservices, DevOps, Cloud & Web3 concepts**  
-- 💬 Ask me about **Java, Spring, React, Angular, AWS, SQL, or DevOps**  
-- 📫 Contact me: [Email](mailto:kasarapuanil55@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anil-kasarapu369/) | [Instagram](https://www.instagram.com/kasarapu_anil/)
+💻 Building modern web applications using **React, Angular, Java, Spring Boot, Microservices**  
 
 ---
 
-## Skills
+## 🌟 Skills
 
-**Front-End:**  
+### Front-End
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,7 +19,7 @@ I love building modern, interactive web applications using **Java, Spring Boot, 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-**Back-End:**  
+### Back-End
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-61DAFB?style=for-the-badge)
@@ -33,7 +28,7 @@ I love building modern, interactive web applications using **Java, Spring Boot, 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**DevOps & Cloud:**  
+### DevOps & Cloud
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
@@ -42,30 +37,39 @@ I love building modern, interactive web applications using **Java, Spring Boot, 
 
 ---
 
-## Projects
+## 🚀 Projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-React%20App-blue?style=for-the-badge&logo=react)](https://github.com/kasarapu-anil/portfolio)
-[![E-Commerce App](https://img.shields.io/badge/E-Commerce-Spring%20Boot-green?style=for-the-badge&logo=spring)](https://github.com/kasarapu-anil/ecommerce-app)
-[![Task Manager](https://img.shields.io/badge/Task%20Manager-React%20Node-purple?style=for-the-badge)](https://github.com/kasarapu-anil/task-manager)
+<div align="center">
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-React%20App-blue?style=for-the-badge&logo=react)](https://github.com/kasarapu-anil/portfolio)  
+[![E-Commerce App](https://img.shields.io/badge/E-Commerce-Spring%20Boot-green?style=for-the-badge&logo=spring)](https://github.com/kasarapu-anil/ecommerce-app)  
+[![Task Manager](https://img.shields.io/badge/Task%20Manager-React%20Node-purple?style=for-the-badge)](https://github.com/kasarapu-anil/task-manager)  
 
-## Achievements & Certifications
-![AWS Certified](https://img.shields.io/badge/AWS-Certified-blue?style=for-the-badge&logo=amazon-aws)
-![Java Certified](https://img.shields.io/badge/Java-Certified-red?style=for-the-badge&logo=java)
-🏆 Participated in Hackathons & Web Development Challenges  
+</div>
 
 ---
 
-## GitHub Stats
+## 🏆 Achievements & Certifications
 
-![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasarapu-anil&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasarapu-anil&layout=compact&theme=radical)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-blue?style=for-the-badge&logo=amazon-aws)  
+![Java Certified](https://img.shields.io/badge/Java-Certified-red?style=for-the-badge&logo=java)  
+
+🏅 Winner, Hackathon XYZ 2024  
+✍️ Published articles on **React, Java, Web3**  
 
 ---
 
-## Contact Me
-📧 kasarapuanil55@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/anil-kasarapu369/)  
-📸 [Instagram](https://www.instagram.com/kasarapu_anil/)  
-🌐 Portfolio: 
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kasarapu-anil&show_icons=true&theme=radical&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasarapu-anil&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 📫 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-kasarapuanil55@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasarapuanil55@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anil-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anil-kasarapu369/)  
+[![Instagram](https://img.shields.io/badge/Instagram-Anil-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kasarapu_anil/)  
