@@ -1,91 +1,71 @@
-<br clear="both">
+# Hi there 👋, I'm Kasarapu Anil
 
-<h1 align="left"></h1>
+![Coding Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
-###
+## About Me
+I'm a **Full-Stack Java Developer** currently working as a **Front-End Developer**.  
+I love building modern, interactive web applications using **Java, Spring Boot, React, and Angular**.  
 
-<p align="left"></p>
+- 🔭 Currently working on modern web apps with **React & Spring Boot**  
+- 🌱 Exploring **Microservices, DevOps, Cloud & Web3 concepts**  
+- 💬 Ask me about **Java, Spring, React, Angular, AWS, SQL, or DevOps**  
+- 📫 Contact me: [Email](mailto:kasarapuanil55@gmail.com) | [LinkedIn](https://www.linkedin.com/in/anil-kasarapu369/) | [Instagram](https://www.instagram.com/kasarapu_anil/)
 
-###
+---
 
-<h2 align="left">✨ About Me</h2>
+## Skills
 
-###
+**Front-End:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-<p align="left">Hello, I’m Kasarapu Anil—a Full Stack Java Developer who enjoys turning coffee into clean code and ideas into scalable applications. By day, I build seamless web apps across frontend and backend; by night, I pretend to have a social life (spoiler: my code usually wins). From crafting APIs with Spring Boot to designing UIs with React, I like to keep things balanced—just like my Git commits. Think of me as a problem-solver with a keyboard, mixing logic, creativity, and a dash of humor to make tech feel less robotic. Developer, builder, and occasional bug whisperer—that’s me in a nutshell.</p>
+**Back-End:**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-61DAFB?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-214283?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-###
+**DevOps & Cloud:**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-<p align="left">🌐 Socials</p>
+---
 
-###
+## Projects
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/anil-kasarapu369/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Anilgou64985526" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/kasarapu_anil/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-React%20App-blue?style=for-the-badge&logo=react)](https://github.com/kasarapu-anil/portfolio)
+[![E-Commerce App](https://img.shields.io/badge/E-Commerce-Spring%20Boot-green?style=for-the-badge&logo=spring)](https://github.com/kasarapu-anil/ecommerce-app)
+[![Task Manager](https://img.shields.io/badge/Task%20Manager-React%20Node-purple?style=for-the-badge)](https://github.com/kasarapu-anil/task-manager)
 
-###
+---
 
-<h2 align="left">💻 Tech Stack</h2>
+## Achievements & Certifications
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-blue?style=for-the-badge&logo=amazon-aws)
+![Java Certified](https://img.shields.io/badge/Java-Certified-red?style=for-the-badge&logo=java)
+🏆 Participated in Hackathons & Web Development Challenges  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-</div>
+## GitHub Stats
 
-###
+![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasarapu-anil&show_icons=true&theme=radical&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasarapu-anil&layout=compact&theme=radical)
+
+---
+
+## Contact Me
+📧 kasarapuanil55@gmail.com  
+💼 [LinkedIn](https://www.linkedin.com/in/anil-kasarapu369/)  
+📸 [Instagram](https://www.instagram.com/kasarapu_anil/)  
+🌐 Portfolio: 
