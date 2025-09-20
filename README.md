@@ -47,12 +47,12 @@
 
 <div align="center">  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KasarapuAnil&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KasarapuAnil&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=KasarapuAnil&theme=radical)](https://git.io/streak-stats)  
-![Trophy](https://github-profile-trophy.vercel.app/?username=KasarapuAnil&theme=radical&no-frame=true&row=1&column=6)  
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KasarapuAnil&show_icons=true&theme=radical&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KasarapuAnil&layout=compact&theme=radical) |
+|---|---|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=KasarapuAnil&theme=radical)](https://git.io/streak-stats) | ![Trophy](https://github-profile-trophy.vercel.app/?username=KasarapuAnil&theme=radical&no-frame=true&row=1&column=3) |
 
 </div>
+
 
 
 ---
