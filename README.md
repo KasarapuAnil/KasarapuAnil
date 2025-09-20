@@ -59,13 +59,10 @@
 
 ## 📫 Connect with Me  
 
-<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anil-kasarapu369/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasarapuanil55@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kasarapu_anil/)  
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/anil-kasarapu369/) 
-[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:kasarapuanil55@gmail.com) 
-[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/kasarapu_anil/)  
-
-</div>
 
 ---
 ✨ _Thanks for visiting my GitHub profile!_ 🚀
