@@ -4,39 +4,32 @@
 
 ---
 
-## 🌟 About Me  
-💻 Passionate **Full-Stack Java Developer** with a strong focus on **React, Angular, Java, Spring Boot & Microservices**  
-🚀 Building modern, scalable, and performance-driven applications  
-☁️ Exploring **DevOps & AWS Cloud** to become a well-rounded engineer  
-
----
-
 ## 🛠 Skills  
 
 ### 🚀 Front-End  
-![HTML5](https://progress-bar.dev/90/?title=HTML5&color=E34F26)  
-![CSS3](https://progress-bar.dev/85/?title=CSS3&color=1572B6)  
-![JavaScript](https://progress-bar.dev/90/?title=JavaScript&color=F7DF1E)  
-![Bootstrap](https://progress-bar.dev/80/?title=Bootstrap&color=563D7C)  
-![TailwindCSS](https://progress-bar.dev/75/?title=TailwindCSS&color=06B6D4)  
-![React](https://progress-bar.dev/90/?title=React&color=61DAFB)  
-![Angular](https://progress-bar.dev/80/?title=Angular&color=DD0031)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)  
 
 ### ⚙️ Back-End  
-![Java](https://progress-bar.dev/85/?title=Java&color=007396)  
-![Spring Boot](https://progress-bar.dev/80/?title=SpringBoot&color=6DB33F)  
-![Microservices](https://progress-bar.dev/75/?title=Microservices&color=2496ED)  
-![SQL](https://progress-bar.dev/85/?title=SQL&color=003B57)  
-![PL/SQL](https://progress-bar.dev/80/?title=PL/SQL&color=214283)  
-![MySQL](https://progress-bar.dev/85/?title=MySQL&color=4479A1)  
-![PostgreSQL](https://progress-bar.dev/80/?title=PostgreSQL&color=336791)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge)  
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)  
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-214283?style=for-the-badge)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ### ☁️ DevOps & Cloud  
-![Linux](https://progress-bar.dev/80/?title=Linux&color=FCC624)  
-![AWS](https://progress-bar.dev/75/?title=AWS&color=232F3E)  
-![Netlify](https://progress-bar.dev/70/?title=Netlify&color=00C7B7)  
-![Terraform](https://progress-bar.dev/70/?title=Terraform&color=7B42BC)  
-![Grafana](https://progress-bar.dev/70/?title=Grafana&color=F46800)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
 
 ---
 
@@ -44,28 +37,26 @@
 
 ### 🖥 Portfolio  
 📌 Built with **React** to showcase my skills and work.  
-[🔗 View Repository](https://github.com/kasarapu-anil/portfolio)  
+🔗 [View Repository](https://github.com/kasarapu-anil/portfolio)  
 
 ### 🛒 E-Commerce App  
-📌 Full-stack application with **Spring Boot** backend and **React** frontend.  
-[🔗 View Repository](https://github.com/kasarapu-anil/ecommerce-app)  
+📌 Full-stack application with **Spring Boot backend** and **React frontend**.  
+🔗 [View Repository](https://github.com/kasarapu-anil/ecommerce-app)  
 
 ### ✅ Task Manager  
 📌 Productivity tool using **React + Node.js**.  
-[🔗 View Repository](https://github.com/kasarapu-anil/task-manager)  
+🔗 [View Repository](https://github.com/kasarapu-anil/task-manager)  
 
 ---
 
 ## 🏆 Certifications  
 
-<div>
-<img src="https://img.shields.io/badge/AWS-Certified-blue?style=for-the-badge&logo=amazon-aws" />
-<img src="https://img.shields.io/badge/Terraform-Certified-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-Certified-red?style=for-the-badge&logo=java" />
-<img src="https://img.shields.io/badge/SQL-Certified-003B57?style=for-the-badge" />
-<img src="https://img.shields.io/badge/React-Certified-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Spring-Certified-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</div>  
+![AWS](https://img.shields.io/badge/AWS-Certified-blue?style=for-the-badge&logo=amazon-aws)  
+![Terraform](https://img.shields.io/badge/Terraform-Certified-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-Certified-red?style=for-the-badge&logo=java)  
+![SQL](https://img.shields.io/badge/SQL-Certified-003B57?style=for-the-badge)  
+![React](https://img.shields.io/badge/React-Certified-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Spring](https://img.shields.io/badge/Spring-Certified-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 
 ---
 
