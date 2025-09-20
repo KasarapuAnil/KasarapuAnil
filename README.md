@@ -18,30 +18,30 @@
 
 ## 🚀 Projects  
 
-### 🖥 Portfolio  
-📌 Built with **React** to showcase my skills and work.  
-🔗 [View Repository](https://github.com/kasarapu-anil/portfolio)  
+### 🖥️ Portfolio  
+🎨 A personal portfolio built with React to showcase my skills and projects.  
+🔗 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/KasarapuAnil/portfolio)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+---
 
 ### 🛒 E-Commerce App  
-📌 Full-stack application with **Spring Boot backend** and **React frontend**.  
-🔗 [View Repository](https://github.com/kasarapu-anil/ecommerce-app)  
+🛍️ Full-stack shopping application with **Spring Boot backend** and **React frontend**.  
+🔗 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/KasarapuAnil/ecommerce-app)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
 
 ### ✅ Task Manager  
-📌 Productivity tool using **React + Node.js**.  
-🔗 [View Repository](https://github.com/kasarapu-anil/task-manager)  
+📋 A productivity tool for task tracking built using **React + Node.js**.  
+🔗 [![GitHub Repo](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/KasarapuAnil/task-manager)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
-
 ## 🏆 Certifications  
 
-![AWS](https://img.shields.io/badge/AWS-Certified-blue?style=for-the-badge&logo=amazon-aws)  
-![Terraform](https://img.shields.io/badge/Terraform-Certified-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-Certified-red?style=for-the-badge&logo=java)  
-![SQL](https://img.shields.io/badge/SQL-Certified-003B57?style=for-the-badge)  
-![React](https://img.shields.io/badge/React-Certified-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-![Spring](https://img.shields.io/badge/Spring-Certified-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-Certified-blue?style=for-the-badge&logo=amazon-aws) ![Terraform](https://img.shields.io/badge/Terraform-Certified-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Java](https://img.shields.io/badge/Java-Certified-red?style=for-the-badge&logo=java) ![SQL](https://img.shields.io/badge/SQL-Certified-003B57?style=for-the-badge) ![React](https://img.shields.io/badge/React-Certified-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Spring](https://img.shields.io/badge/Spring-Certified-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
 
----
 
 ## 📊 GitHub Stats  
 
@@ -59,9 +59,13 @@
 
 ## 📫 Connect with Me  
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/anil-kasarapu369/)  
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kasarapuanil55@gmail.com)  
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/kasarapu_anil/)  
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/anil-kasarapu369/) 
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:kasarapuanil55@gmail.com) 
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/kasarapu_anil/)  
+
+</div>
 
 ---
 ✨ _Thanks for visiting my GitHub profile!_ 🚀
