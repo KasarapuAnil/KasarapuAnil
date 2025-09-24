@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kasarapu Anil  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00C2FF&vCenter=true&width=500&lines=Full-Stack+Java+Developer;React+%7C+Angular+%7C+Spring+Boot;Happy+%F0%9F%8E%89+Coding!)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00C2FF&vCenter=true&width=500&lines=Full-Stack+Java+Developer;React+%7C+Angular+%7C+Spring+Boot+DevOps+%7C;Happy+%F0%9F%8E%89+Coding!)](https://git.io/typing-svg)  
 
 ---
 
